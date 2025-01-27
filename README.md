@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @AhsanIjaz17
-- I'm learning cybersecurity from air universirty
-- Cyber security Enthusiast curious in penetration tesing & bug bounty
+- Aspiring Cyber security professional  curious in penetration tesing & bug bounty
 - 
