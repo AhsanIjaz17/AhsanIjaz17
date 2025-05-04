@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @AhsanIjaz17
-- Aspiring Cyber security professional  curious in penetration tesing & bug bounty
+-Jr Penetration tester | Vulnerability Researcher 
+-
 - 
