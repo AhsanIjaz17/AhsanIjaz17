@@ -4,7 +4,7 @@
    Penetration tester | Vulnerability Researcher  
 
 🔐 With a solid academic background in:
-- **Application Security**, **Network security* , **Penetration Testing**
+- **Application Security**, **Network security** , **Penetration Testing**
 
 - 🌟 What I Do
 
