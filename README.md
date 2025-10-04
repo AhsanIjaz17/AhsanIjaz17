@@ -13,8 +13,13 @@ ________________________________________________________________________________
 ![API Pentesting](https://img.shields.io/badge/API%20Pentesting-ff6f00?style=for-the-badge)
 ![CTF Player](https://img.shields.io/badge/CTF%20Player-purple?style=for-the-badge)
 ![Linux Tools](https://img.shields.io/badge/Linux%20Tools-white?style=for-the-badge&logo=linux&logoColor=black)
-
+![Burp Suite](https://img.shields.io/badge/BurpSuite-brown?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-9cf?style=for-the-badge&logo=nmap)
+![Metasploit](https://img.shields.io/badge/Metasploit-8C1?style=for-the-badge)
 ---
+## 🧭 Security Frameworks & Methodologies
+![OWASP Top 10](https://img.shields.io/badge/OWASP-Top%2010-red?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-000000?style=for-the-badge)
 
 ## 🚀 Goals  
 - ✅ Sharpen my pentesting & exploit development skills  
@@ -24,9 +29,7 @@ ________________________________________________________________________________
 ---
 
 ## 📫 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhsanIjaz17)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahsanijaz)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ahsanijaz1)  
 
 ---
 
