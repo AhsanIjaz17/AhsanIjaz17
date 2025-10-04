@@ -19,7 +19,7 @@ ________________________________________________________________________________
 ---
 ## 🧭 Security Frameworks & Methodologies
 ![OWASPTop10](https://img.shields.io/badge/OWASPTop10-DC143C?style=for-the-badge&logo=owasp)
-![MITREATT&CK](https://img.shields.io/badge/MITREATT%26CK-00267800?style=for-the-badge&logo=mitre)
+![MITREATT&CK](https://img.shields.io/badge/MITREATT%26CK-f02680?style=for-the-badge&logo=mitre)
 
 
 ## 🚀 Goals  
