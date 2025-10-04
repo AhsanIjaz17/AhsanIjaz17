@@ -6,7 +6,7 @@ My work revolves around exploring real-world attack vectors, building security t
 _______________________________________________________________________________________________________________________________
 ## 🔧 Skills  
 
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-228B22?style=for-the-badge&logo=kalilinux) 
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-black?style=for-the-badge&logo=kalilinux) 
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-blue?style=for-the-badge) 
 ![Application Security](https://img.shields.io/badge/Application%20Security-221g22?style=for-the-badge&logo=datadog&logoColor=white) 
 ![Network Security](https://img.shields.io/badge/Network%20Security-8A2BE2?style=for-the-badge&logo=cisco&logoColor=white)  
