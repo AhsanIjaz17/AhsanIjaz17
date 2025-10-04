@@ -28,10 +28,25 @@ ________________________________________________________________________________
 - ✅ Grow within a cybersecurity team that values **curiosity, resilience, and innovation**  
 
 ---
+---
 
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahsanijaz)  
+## 🧠 Security Insight  
+
+<div align="center">
+
+💬  
+<blockquote>
+<h3>“Security is a process, not a product.”</h3>  
+<p>— Bruce Schneier</p>
+</blockquote>
+
+</div>
 
 ---
 
-⭐ *"Security is not a product, it’s a mindset."*  
+## 📌 Explore More  
+
+If you found my profile interesting, make sure to check out my **pinned repositories** — they showcase some of my best work in **penetration testing, vulnerability research, and security automation**.  
+
+👉 [View My Featured Repositories](https://github.com/AhsanIjaz17?tab=repositories)
+ 
