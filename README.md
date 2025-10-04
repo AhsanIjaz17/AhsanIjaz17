@@ -46,7 +46,7 @@ ________________________________________________________________________________
 
 ## 📌 Explore More  
 
-If you found my profile interesting, make sure to check out my **pinned repositories** — they showcase some of my best work in **penetration testing, vulnerability research, and security automation**.  
+Make sure to check out my **pinned repositories**   
 
 👉 [View My Featured Repositories](https://github.com/AhsanIjaz17?tab=repositories)
  
