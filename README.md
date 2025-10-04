@@ -6,16 +6,16 @@ My work revolves around exploring real-world attack vectors, building security t
 _______________________________________________________________________________________________________________________________
 ## 🔧 Skills  
 
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=white)  
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-1E90FF?style=for-the-badge&logo=securityscorecard&logoColor=white)  
-![Application Security](https://img.shields.io/badge/Application%20Security-32CD32?style=for-the-badge&logo=datadog&logoColor=white)  
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-black?style=for-the-badge&logo=kalilinux) 
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-blue?style=for-the-badge) 
+![Application Security](https://img.shields.io/badge/Application%20Security-228B22?style=for-the-badge&logo=datadog&logoColor=white) 
 ![Network Security](https://img.shields.io/badge/Network%20Security-8A2BE2?style=for-the-badge&logo=cisco&logoColor=white)  
-![API Pentesting](https://img.shields.io/badge/API%20Pentesting-FF1493?style=for-the-badge&logo=fastapi&logoColor=white)  
+![API Pentesting](https://img.shields.io/badge/API%20Pentesting-ff6f00?style=for-the-badge)
 ![CTF Player](https://img.shields.io/badge/CTF%20Player-FFD700?style=for-the-badge&logo=tryhackme&logoColor=black)  
-![Linux Tools](https://img.shields.io/badge/Linux%20Tools-F5F5F5?style=for-the-badge&logo=linux&logoColor=black)  
-![Burp Suite](https://img.shields.io/badge/BurpSuite-FF4500?style=for-the-badge&logo=burpsuite&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-20B2AA?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Metasploit](https://img.shields.io/badge/Metasploit-800080?style=for-the-badge&logo=metasploit&logoColor=white)  
+![Linux Tools](https://img.shields.io/badge/Linux%20Tools-white?style=for-the-badge&logo=linux&logoColor=black) 
+![Burp Suite](https://img.shields.io/badge/BurpSuite-FF8C00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-005F73?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB...<base64-encoded-nmap-logo>...&logoColor=white) 
+![Metasploit](https://img.shields.io/badge/Metasploit-6E5494?style=for-the-badge&logo=metasploit&logoColor=white) 
 
 ---
 ## 🧭 Security Frameworks & Methodologies
