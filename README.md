@@ -10,7 +10,7 @@ ________________________________________________________________________________
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-blue?style=for-the-badge) 
 ![Application Security](https://img.shields.io/badge/Application%20Security-228B22?style=for-the-badge&logo=datadog&logoColor=white) 
 ![Network Security](https://img.shields.io/badge/Network%20Security-8A2BE2?style=for-the-badge&logo=cisco&logoColor=white)  
-![API Pentesting](https://img.shields.io/badge/API%20Pentesting-FF1493?style=for-the-badge&logo=fastapi&logoColor=white)  
+![API Pentesting](https://img.shields.io/badge/API%20Pentesting-ff1f00?style=for-the-badge)
 ![CTF Player](https://img.shields.io/badge/CTF%20Player-FFD700?style=for-the-badge&logo=tryhackme&logoColor=black)  
 ![Linux Tools](https://img.shields.io/badge/Linux%20Tools-white?style=for-the-badge&logo=linux&logoColor=black) 
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-FF8C00?style=for-the-badge&logo=burpsuite&logoColor=white)
