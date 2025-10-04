@@ -10,11 +10,11 @@ ________________________________________________________________________________
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-blue?style=for-the-badge)
 ![Application Security](https://img.shields.io/badge/Application%20Security-228B22?style=for-the-badge&logo=datadog&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network%20Security-0f9d58?style=for-the-badge)
-![API Pentesting](https://img.shields.io/badge/API%20Pentesting-FF1493?style=for-the-badge&logo=fastapi&logoColor=white)  
+![API Pentesting](https://img.shields.io/badge/API%20Pentesting-ff6f00?style=for-the-badge) 
 ![CTF Player](https://img.shields.io/badge/CTF%20Player-purple?style=for-the-badge)
 ![Linux Tools](https://img.shields.io/badge/Linux%20Tools-white?style=for-the-badge&logo=linux&logoColor=black)
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-FF8C00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-005F73?style=for-the-badge&logo=nmap&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-005F73?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB...<base64-encoded-nmap-logo>...&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-6E5494?style=for-the-badge&logo=metasploit&logoColor=white)
 ---
 ## 🧭 Security Frameworks & Methodologies
