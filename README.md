@@ -1,7 +1,6 @@
-# 👋 Hi, I’m Ahsan Ijaz  
+# 👋 Hi, I’m [Muhammad Ahsan Ijaz](mailto:mahsanijaz17@gmail.com)
 
-I am passionate about uncovering vulnerabilities and strengthening security through **application security, network defense, and penetration testing**.  
-My work revolves around exploring real-world attack vectors, building security tools, and sharing knowledge with the community.  
+I'm a penetration tester focused on identifying, exploiting, and mitigating security flaws across web, network, and API environments. I specialize in application security, vulnerability research, and offensive security testing, leveraging modern tools and frameworks to simulate real-world attack scenarios and strengthen defenses.
 
 _______________________________________________________________________________________________________________________________
 ## 🔧 Skills  
