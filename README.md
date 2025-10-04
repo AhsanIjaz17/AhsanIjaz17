@@ -1,29 +1,18 @@
 # 👋 Hi, I’m Ahsan Ijaz  
 
-**Penetration Tester | Vulnerability Researcher | Offesnsive Security Enthusiast**  
-
----
-## 🛡️ About Me  
 I am passionate about uncovering vulnerabilities and strengthening security through **application security, network defense, and penetration testing**.  
 My work revolves around exploring real-world attack vectors, building security tools, and sharing knowledge with the community.  
 
----
-
+_______________________________________________________________________________________________________________________________
 ## 🔧 Skills  
 
-![Application Security](https://img.shields.io/badge/Application%20Security-blue?style=for-the-badge&logo=appveyor)  
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-red?style=for-the-badge&logo=kalilinux)  
-![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability%20Analysis-yellow?style=for-the-badge&logo=owasp)  
-![Network Security](https://img.shields.io/badge/Network%20Security-green?style=for-the-badge&logo=cisco)  
-![CTF Player](https://img.shields.io/badge/CTF%20Player-purple?style=for-the-badge&logo=tryhackme)  
-
----
-
-## 🌟 What I Do  
-- 🔍 Perform **penetration testing** on web apps, networks, and systems  
-- 🕵️‍♂️ Hunt for **vulnerabilities** through real-world adversary techniques 
-- 🛠️ Develop & contribute to **open-source security tools**  
-- ✍️ Share knowledge via **CTF writeups & technical blogs**  
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-black?style=for-the-badge&logo=kalilinux)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-blue?style=for-the-badge)
+![Application Security](https://img.shields.io/badge/Application%20Security-0a7fd0?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network%20Security-0f9d58?style=for-the-badge)
+![API Pentesting](https://img.shields.io/badge/API%20Pentesting-ff6f00?style=for-the-badge)
+![CTF Player](https://img.shields.io/badge/CTF%20Player-purple?style=for-the-badge)
+![Linux Tools](https://img.shields.io/badge/Linux%20Tools-white?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
