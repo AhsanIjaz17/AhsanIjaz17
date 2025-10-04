@@ -15,8 +15,7 @@ ________________________________________________________________________________
 ![Linux Tools](https://img.shields.io/badge/Linux%20Tools-white?style=for-the-badge&logo=linux&logoColor=black) 
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-FF8C00?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-005F73?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB...<base64-encoded-nmap-logo>...&logoColor=white) 
-![Metasploit](https://img.shields.io/badge/Metasploit-6E5494?style=for-the-badge&logo=metasploit&logoColor=white) 
-
+![Metasploit](https://img.shields.io/badge/Metasploit-800080?style=for-the-badge&logo=metasploit&logoColor=white)  
 ---
 ## 🧭 Security Frameworks & Methodologies
 ![OWASPTop10](https://img.shields.io/badge/OWASPTop10-DC143C?style=for-the-badge&logo=owasp)
