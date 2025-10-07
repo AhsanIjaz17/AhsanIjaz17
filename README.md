@@ -20,14 +20,6 @@ ________________________________________________________________________________
 ![OWASPTop10](https://img.shields.io/badge/OWASPTop10-DC143C?style=for-the-badge&logo=owasp)
 ![MITREATT&CK](https://img.shields.io/badge/MITREATT%26CK-333333?style=for-the-badge&logo=mitre&logoColor=white)
 
-
-
-## 🚀 Goals  
-- ✅ Sharpen my pentesting & exploit development skills  
-- ✅ Contribute actively to **open-source security communities**  
-- ✅ Grow within a cybersecurity team that values **curiosity, resilience, and innovation**  
-
----
 ---
 
 ## 🧠 Security Insight  
